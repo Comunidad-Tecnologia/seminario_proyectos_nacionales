@@ -44,3 +44,12 @@ table td{
 	font-size:18px;
 }
 
+.medium{
+	width:50px;
+	z-index:-1;
+	position: absolute;
+}
+
+.top{
+	margin-top:25px;
+}
