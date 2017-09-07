@@ -12,4 +12,5 @@ $(document).ready(function() {
 	$("#pn_4").load("contenido/6_proyectos_nacionales/tabla_4.html");
 	$("#pn_5").load("contenido/6_proyectos_nacionales/tabla_5.html");
 	$("#pn_6").load("contenido/6_proyectos_nacionales/tabla_6.html");
+	loaddata_recursos();
 });
