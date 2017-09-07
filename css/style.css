@@ -54,7 +54,8 @@ table td{
 
 .orgchart .node .title {
 	background-color:#388E3C;
-	height: 40px;
+	//height: 40px;
+    height: auto;
 	white-space: inherit;
 	border-radius: 5px;
 }
